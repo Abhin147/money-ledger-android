@@ -1,0 +1,6 @@
+{
+  "name": "Money Ledger",
+  "description": "Smart Money Ledger tracking business-owned vs personal funds mixed in single accounts with settlement calculations, reports, and AI financial assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
